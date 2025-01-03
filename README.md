@@ -2,10 +2,6 @@
 <h1 align="center">Hola 👋 Me llamo Osman Armando Jimenez Cortes</h1>
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/pw/ACtC-3cN_gedJDOzeKSgQUP8E6hPWaOq4xuZEjv2LiLYRZR6SmSu0jqwbWc56-h1cZkhKlPmYdrr3PiNLTSYMNc-C6991m2bJFbJHXMm6xX5JLH4suacUG3Pdbgujsm-9Y7Mdvl_8HQW8ltDIp2YoS1TVcTv=w1366-h586-no?authuser=0" alt="Osman Jimenez Banner">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=OsmanJimenez&label=Visualizaciones">
 </p>
 
