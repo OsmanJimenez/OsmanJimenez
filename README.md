@@ -61,16 +61,6 @@ Estas son algunas de las herramientas que uso a diario para desarrollar proyecto
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsmanJimenez&bg_color=30,3079f0,00d4ff&title_color=fff&text_color=fff)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OsmanJimenez&theme=gitdimmed)
 
-## 🌐 Conecta Conmigo
-
-Puedes encontrarme y seguirme en estas plataformas:
-
-[![LinkedIn Follow](https://img.shields.io/badge/-00a0dc?color=00a0dc&label=%40OSMANJIMENEZ&logo=Linkedin&logoColor=00a0dc&style=for-the-badge)](https://www.linkedin.com/in/osmanjimenez/)
-[![Pinterest Follow](https://img.shields.io/badge/-bd081c?color=bd081c&label=%40OSMANJIMENEZDEV&logo=Pinterest&logoColor=bd081c&style=for-the-badge)](https://co.pinterest.com/osmanjimenezdev/)
-[![Stack Overflow Follow](https://img.shields.io/badge/-F58025?color=F58025&label=%40OSMANJIMENEZ&logo=Stack+Overflow&logoColor=F58025&style=for-the-badge)](https://stackexchange.com/users/26481824/osman-armando-jim%c3%a9nez-cortes)
-[![Twitter Follow](https://img.shields.io/twitter/follow/osmanjimenezdev?color=1da1f2&label=%40OSMANJIMENEZDEV&logo=Twiter+Overflow&logoColor=1da1f2&style=for-the-badge)](https://twitter.com/osmanjimenezdev)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCyCmKYbu7sKcpj82Zj6ieag?color=ff0000&label=JockerCode&logo=youtube&logoColor=ff0000&style=for-the-badge)](https://www.youtube.com/channel/UCyCmKYbu7sKcpj82Zj6ieag)
-
 ---
 
 ¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores apasionados. Si tienes alguna idea o proyecto en mente, no dudes en ponerte en contacto conmigo.
