@@ -1,11 +1,9 @@
 
-<h1 align="center">Hola 👋 Me llamo Osman Armando Jimenez Cortes</h1>
+<h1 align="center">Hola 👋 Me llamo Osman Jimenez</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OsmanJimenez&label=Visualizaciones">
 </p>
-
-Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca. Soy una persona altamente proactiva con un fuerte deseo de **aprender** y compartir **conocimiento** en el ámbito tecnológico. Me especializo en el desarrollo de aplicaciones web y móviles, siempre buscando crear soluciones innovadoras y escalables.
 
 ## 🌟 Skills
 
