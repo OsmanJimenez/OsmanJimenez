@@ -34,7 +34,6 @@ Aquí están algunas de las tecnologías y lenguajes con los que trabajo:
 
 Estas son algunas de las herramientas que uso a diario para desarrollar proyectos:
 
-
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
@@ -57,7 +56,6 @@ Estas son algunas de las herramientas que uso a diario para desarrollar proyecto
 
 ## 🏆 Contribuciones
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsmanJimenez&bg_color=30,3079f0,00d4ff&title_color=fff&text_color=fff)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OsmanJimenez&theme=gitdimmed)
 
 ---
