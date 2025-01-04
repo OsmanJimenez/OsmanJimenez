@@ -57,7 +57,6 @@ Estas son algunas de las herramientas que uso a diario para desarrollar proyecto
 
 ## 🏆 Contribuciones
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OsmanJimenez&theme=github-dark-blue&locale=es)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsmanJimenez&bg_color=30,3079f0,00d4ff&title_color=fff&text_color=fff)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OsmanJimenez&theme=gitdimmed)
 
