@@ -95,12 +95,16 @@ Me apasiona la **innovación tecnológica, la inteligencia artificial y la cienc
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Conecta conmigo  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/osmanjimenez)  
-- 🎥 [YouTube - JockerCode](https://www.youtube.com/@JockerCode)  
-- 💡 Siempre abierto a charlar sobre **frontend, mobile, cloud, IA y open source**.  
+<p align="center">
+  <a href="https://osmanjimenez.com" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/></a>
+  <a href="https://www.linkedin.com/in/osmanjimenez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@JockerCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
 ---
 
-✨ *“Dime hasta dónde llega lo imposible y lo cruzaré.”*  
+<p align="center">
+  <em>“Dime hasta dónde llega lo imposible y lo cruzaré.”</em> ✨
+</p>
