@@ -79,22 +79,19 @@ Me apasiona la **innovación tecnológica, la inteligencia artificial y la cienc
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=OsmanJimenez&show_icons=true&theme=radical&cache_seconds=3600" 
-    alt="GitHub Stats"
+    src="https://img.shields.io/github/followers/OsmanJimenez?label=Seguidores&style=for-the-badge&logo=github"
+  />
+  <img 
+    src="https://img.shields.io/github/stars/OsmanJimenez?label=Stars&style=for-the-badge&logo=github"
+  />
+  <img 
+    src="https://img.shields.io/github/last-commit/OsmanJimenez/OsmanJimenez?label=Último%20commit&style=for-the-badge"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=OsmanJimenez&theme=radical" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=OsmanJimenez&theme=radical&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies"
+    src="https://img.shields.io/badge/Commits%20este%20año-Auto--calculado--por--GitHub-blueviolet?style=for-the-badge"
   />
 </p>
 
